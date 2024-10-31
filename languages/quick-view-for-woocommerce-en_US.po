@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/utils/variables.jsx:28
+msgid "100"
+msgstr ""
+
+#: src/utils/variables.jsx:32
+msgid "200"
+msgstr ""
+
+#: src/utils/variables.jsx:36
+msgid "300"
+msgstr ""
+
+#: src/utils/variables.jsx:40
+msgid "400"
+msgstr ""
+
+#: src/utils/variables.jsx:44
+msgid "500"
+msgstr ""
+
+#: src/utils/variables.jsx:48
+msgid "600"
+msgstr ""
+
+#: src/utils/variables.jsx:52
+msgid "700"
+msgstr ""
+
+#: src/utils/variables.jsx:56
+msgid "800"
+msgstr ""
+
+#: src/utils/variables.jsx:60
+msgid "900"
+msgstr ""
+
+#: src/components/FixedHeader/index.jsx:12
+#: src/utils/loader.js:10
+msgid "Quick View by Acowebs"
+msgstr ""
+
+#: src/components/FixedHeader/index.jsx:24
+msgid "Support"
+msgstr ""
+
+#: src/components/Footer/index.jsx:21
+msgid "Save Changes"
+msgstr ""
+
+#: src/components/Footer/index.jsx:26
+msgid "Reset Defaults"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:16
+msgid "Ajax Add to Cart"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:19
+msgid "Enable Lightbox for Product Images"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:25
+msgid "Custom Loaders and Icons"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:31
+msgid "Quick View Custom Styling"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:37
+msgid "Image Gallery Customization"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:43
+msgid "List of Most Viewed Products"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:49
+msgid "Shortcode to attach a quickview button in anywhere in your site"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:55
+msgid "Additional Trigger Settings"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:61
+msgid "JS APIs to support custom theme development"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:68
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: src/components/PremiumBanner/index.jsx:9
+msgid "Use Our Premium Features Now"
+msgstr ""
+
+#: src/components/ResetPopup/index.jsx:12
+msgid "Are you sure you want to reset the settings to defaults"
+msgstr ""
+
+#: src/components/ResetPopup/index.jsx:21
+msgid "Reset Now"
+msgstr ""
+
+#: src/components/ResetPopup/index.jsx:30
+msgid "Cancel"
+msgstr ""
+
+#: src/components/ResetPopup/index.jsx:9
+msgid "Reset defaults"
+msgstr ""
+
+#: src/components/Tabs/Index.js:12
+#: src/pages/General.js:163
+msgid "General Settings"
+msgstr ""
+
+#: src/components/Tabs/Index.js:24
+#: src/pages/Trigger.js:297
+msgid "Trigger Settings"
+msgstr ""
+
+#: src/components/Tabs/Index.js:36
+#: src/pages/Quickview.js:354
+msgid "Quick View Settings"
+msgstr ""
+
+#: src/components/Welcome/index.jsx:38
+msgid "Hey there,"
+msgstr ""
+
+#: src/components/Welcome/index.jsx:40
+msgid "Welcome to quick view admin settings,"
+msgstr ""
+
+#: src/components/Welcome/index.jsx:58
+msgid "Export Settings"
+msgstr ""
+
+#: src/pages/General.js:166
+msgid "Enable Quick View"
+msgstr ""
+
+#: src/pages/General.js:172
+msgid "Enable this for enabling Quick View in frontend"
+msgstr ""
+
+#: src/pages/General.js:189
+msgid "Disable Quick View in mobile"
+msgstr ""
+
+#: src/pages/General.js:195
+msgid ""
+"Enable this to hide Quick View in mobile screens ie, less than 768 pixel "
+"width devices"
+msgstr ""
+
+#: src/pages/General.js:213
+msgid "Enable quick view in wishlist"
+msgstr ""
+
+#: src/pages/General.js:219
+msgid "Note : Supports only in Acowebs Wishlist Plugin"
+msgstr ""
+
+#: src/pages/General.js:223
+msgid "Enable this to display quick view button in wishlist"
+msgstr ""
+
+#: src/pages/General.js:241
+msgid "Load additional plugins in entire website"
+msgstr ""
+
+#: src/pages/General.js:247
+msgid "Load flexslider and wc-add-to-cart-variation script in entire website."
+msgstr ""
+
+#: src/pages/General.js:251
+msgid "Enable this to load all scripts in entire website"
+msgstr ""
+
+#: src/pages/General.js:28
+#: src/pages/Quickview.js:33
+#: src/pages/Trigger.js:31
+msgid "All Changes are saved"
+msgstr ""
+
+#: src/pages/Page404.js:12
+msgid "Sorry!! The page you are looking for not found on this settings page"
+msgstr ""
+
+#: src/pages/Page404.js:9
+msgid "404 - Page not found"
+msgstr ""
+
+#: src/pages/Quickview.js:362
+msgid "Quick View Style"
+msgstr ""
+
+#: src/pages/Quickview.js:369
+msgid "Choose the quickview style from the list of styles"
+msgstr ""
+
+#: src/pages/Quickview.js:388
+msgid "Modal width"
+msgstr ""
+
+#: src/pages/Quickview.js:395
+msgid ""
+"Set the width of the Modal Box from here. It will only applied to the "
+"quickview type 'Modal'."
+msgstr ""
+
+#: src/pages/Quickview.js:422
+msgid "Product Image width"
+msgstr ""
+
+#: src/pages/Quickview.js:429
+msgid "Edit this to set the width of the image section in Percentage."
+msgstr ""
+
+#: src/pages/Quickview.js:454
+msgid "Image Size"
+msgstr ""
+
+#: src/pages/Quickview.js:461
+msgid "Set the size of the image related to the image container."
+msgstr ""
+
+#: src/pages/Quickview.js:479
+msgid "Image Position"
+msgstr ""
+
+#: src/pages/Quickview.js:48
+msgid "Modal"
+msgstr ""
+
+#: src/pages/Quickview.js:486
+msgid "Eg : top, bottom, center, 10px 10px etc."
+msgstr ""
+
+#: src/pages/Quickview.js:52
+msgid "Cascading"
+msgstr ""
+
+#: src/pages/Quickview.js:528
+msgid "Enable View Detail Button"
+msgstr ""
+
+#: src/pages/Quickview.js:534
+msgid ""
+"Enable this to show the button in quickview that is linked to the product "
+"detail page"
+msgstr ""
+
+#: src/pages/Quickview.js:552
+msgid "View Detail Button label"
+msgstr ""
+
+#: src/pages/Quickview.js:571
+msgid "View Detail"
+msgstr ""
+
+#: src/pages/Quickview.js:586
+msgid "Apply Plugin Default Button Styling"
+msgstr ""
+
+#: src/pages/Quickview.js:59
+msgid "Contain"
+msgstr ""
+
+#: src/pages/Quickview.js:592
+msgid ""
+"Enable this to apply the style from plugin default for 'Add to Cart' and "
+"'View Detail' Buttons. Else the default theme style will be applied"
+msgstr ""
+
+#: src/pages/Quickview.js:63
+msgid "Cover"
+msgstr ""
+
+#: src/pages/Quickview.js:67
+msgid "Auto"
+msgstr ""
+
+#: src/pages/Quickview.js:71
+#: src/utils/variables.jsx:24
+msgid "Inherit"
+msgstr ""
+
+#: src/pages/Quickview.js:75
+#: src/utils/variables.jsx:20
+msgid "Initial"
+msgstr ""
+
+#: src/pages/Quickview.js:79
+msgid "Unset"
+msgstr ""
+
+#: src/pages/Quickview.js:86
+msgid "Do not show"
+msgstr ""
+
+#: src/pages/Quickview.js:90
+msgid "Slider"
+msgstr ""
+
+#: src/pages/Quickview.js:94
+msgid "Thumbnail"
+msgstr ""
+
+#: src/pages/Trigger.js:304
+msgid "Button Label"
+msgstr ""
+
+#: src/pages/Trigger.js:311
+msgid ""
+"Edit this to change the Label of the buttons, Emptying this button causes, "
+"No label in quickview buttons"
+msgstr ""
+
+#: src/pages/Trigger.js:324
+msgid "Quick View"
+msgstr ""
+
+#: src/pages/Trigger.js:337
+msgid "Button Position"
+msgstr ""
+
+#: src/pages/Trigger.js:358
+msgid "Button Style"
+msgstr ""
+
+#: src/pages/Trigger.js:380
+msgid "Apply Plugin Default Styling"
+msgstr ""
+
+#: src/pages/Trigger.js:386
+msgid "Enable this to apply plugin default style."
+msgstr ""
+
+#: src/pages/Trigger.js:47
+msgid "After Add to cart"
+msgstr ""
+
+#: src/pages/Trigger.js:51
+msgid "Before Add to cart"
+msgstr ""
+
+#: src/pages/Trigger.js:61
+msgid "Icon Only"
+msgstr ""
+
+#: src/pages/Trigger.js:65
+msgid "Label Only"
+msgstr ""
+
+#: src/pages/Trigger.js:69
+msgid "Icon + Label"
+msgstr ""
+
+#: src/utils/variables.jsx:107
+msgid "Field Required"
+msgstr ""
+
+#: src/utils/variables.jsx:112
+msgid "Maximum value should be 99999"
+msgstr ""
+
+#: src/utils/variables.jsx:12
+msgid "Bolder"
+msgstr ""
+
+#: src/utils/variables.jsx:120
+msgid "Minimum value should be 1"
+msgstr ""
+
+#: src/utils/variables.jsx:16
+msgid "Lighter"
+msgstr ""
+
+#: src/utils/variables.jsx:4
+msgid "Normal"
+msgstr ""
+
+#: src/utils/variables.jsx:77
+msgid "Maximum 30 charactors allowed"
+msgstr ""
+
+#: src/utils/variables.jsx:8
+msgid "Bold"
+msgstr ""
+
+#: src/utils/variables.jsx:90
+msgid "Maximum value should be 100"
+msgstr ""
+
+#: src/utils/variables.jsx:98
+msgid "Minimum value should be 0"
+msgstr ""

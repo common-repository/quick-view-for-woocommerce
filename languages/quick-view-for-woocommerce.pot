@@ -1,0 +1,75 @@
+# Copyright (C) 2023 Acowebs
+# This file is distributed under the same license as the Quick View For Woocommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick View For Woocommerce 1.2.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/aco-woo-quick-view-free\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-07T05:26:12+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: quick-view-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Quick View For Woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Quick View For Woocommerce enables customer to have a quick look of product easily without visiting product page."
+msgstr ""
+
+#. Author of the plugin
+msgid "Acowebs"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://acowebs.com"
+msgstr ""
+
+#: includes/class-acoqvw-api.php:93
+msgid "Error Fetching Data"
+msgstr ""
+
+#: includes/class-acoqvw-api.php:135
+#: includes/class-acoqvw-api.php:144
+#: includes/class-acoqvw-api.php:152
+msgid "Settings are successfully reset to defaults"
+msgstr ""
+
+#: includes/class-acoqvw-api.php:137
+#: includes/class-acoqvw-api.php:146
+#: includes/class-acoqvw-api.php:154
+msgid "All Changes are successfully saved"
+msgstr ""
+
+#: includes/class-acoqvw-api.php:140
+#: includes/class-acoqvw-api.php:157
+#: includes/class-acoqvw-api.php:161
+msgid "Error Updating Settings. Please check back after some time."
+msgstr ""
+
+#: includes/class-acoqvw-backend.php:170
+msgid "Settings"
+msgstr ""
+
+#. translators: %s: Plugin Name.
+#: includes/class-acoqvw-backend.php:218
+msgid "%s requires <a href=\"http://wordpress.org/extend/plugins/woocommerce/\">WooCommerce</a> to be installed & activated!"
+msgstr ""
+
+#: includes/class-acoqvw-backend.php:234
+#: includes/class-acoqvw-backend.php:235
+msgid "Quick View"
+msgstr ""
+
+#: includes/class-acoqvw-backend.php:251
+msgid "Acowebs Woocommerce Quick View Plugin is loading Please wait for a while.."
+msgstr ""
+
+#: includes/class-acoqvw-public.php:198
+msgid "Something went wrong. Please try again later."
+msgstr ""
